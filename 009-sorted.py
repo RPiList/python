@@ -1,7 +1,3 @@
-# Nachfolgend wird eine Datei geöffnet und dann
-# Zeilenweise gelesen. Das ist hier NICHT wichtig.
-# Uns geht es nur um die For-Schleife am Ende.
-
 dateiname = 'malware.txt'
 
 counter = 0
